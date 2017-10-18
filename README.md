@@ -1,5 +1,5 @@
 ### Goku.Single.DruidDemo
- Druid单数据源测试Demo
+Druid单数据源演示Demo，采用spring+springmvc+mybatis架构
 
 ### 备注：
 1.需要调整 generatorConfig.xml,mybatis.properties 数据库连接<br>  
